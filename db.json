@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body for post 4",
+      "publishedAt": "2020-10-06",
+      "id": "DdCICG7"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Klaus Huntelaar",
+      "feedback": "Nice place to visit"
+    },
+    {
+      "id": "2",
+      "name": "Sam",
+      "feedback": "cool staff"
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "feedback": "Simple yet elegant"
+    },
+    {
+      "id": "4",
+      "name": "Max",
+      "feedback": "WoW"
+    },
+    {
+      "id": "mxLBoN9",
+      "name": "akshay",
+      "feedback": "nice"
+    }
+  ],
+  "links": [
+    {
+      "id": "1",
+      "name": "Facebook",
+      "link": "www.facebook.com",
+      "logo": "https://t3.ftcdn.net/jpg/02/95/09/52/360_F_295095224_eA2rXyOERsqe6jRsfLYEn6dNfgOrV3cz.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Instagram",
+      "link": "www.Instagram.com",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
+    },
+    {
+      "id": "3",
+      "name": "LinkedIn",
+      "link": "www.LinkedIn.com",
+      "logo": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+    }
+  ],
+  "admin": [
+    {
+      "id": "akshupdf",
+      "username": "akshupdf",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "username": "test1",
+      "password": "test"
+    },
+    {
+      "id": "3",
+      "username": "akshayp",
+      "password": "1234"
+    },
+    {
+      "username": "akshaypdf",
+      "password": "1234",
+      "id": "bROPA0A"
+    },
+    {
+      "username": "akshaypp",
+      "password": "1234",
+      "id": "hIKvhYc"
+    },
+    {
+      "id": "test3",
+      "username": "test3",
+      "password": "12345"
+    },
+    {
+      "id": "test",
+      "username": "test",
+      "password": "test"
+    }
+  ],
+  "images": [
+    {},
+    {},
+    {}
+  ]
+}

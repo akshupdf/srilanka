@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "range.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000 -m ./node_modules/json-server-auth",
+    "lanka": "npm start --prefix lanka",
+    "start": "concurrently \"npm run server\" \"npm run lanka\" ",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "content-range": "^2.0.2",
+    "gh-pages": "^4.0.0",
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  }
+}
