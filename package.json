@@ -6,6 +6,7 @@
   "scripts": {
     "server": "json-server --watch db.json --port 5000 -m ./node_modules/json-server-auth",
     "lanka": "npm start --prefix lanka",
+    "build": "react-scripts build",
     "start": "concurrently \"npm run server\" \"npm run lanka\" ",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
